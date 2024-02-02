@@ -1,1 +1,1 @@
-# Moore_Penrose_Pseudoinverse
+This project enables prediction based on the established linear regression model
