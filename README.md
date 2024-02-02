@@ -6,6 +6,6 @@
 
 Finally, the regression line is plotted using the obtained coefficients.
 
-This method minimizes the sum of squared differences between the observed and predicted values, providing a best-fit line through the given data points.
+This method minimizes the sum of squared differences between the observed and predicted values, providing a best-fit line through the given data points which is indeed a key aspect of linear regression and is used for prediction.
 
 ![Screenshot (115)](https://github.com/Disciplined-22/Moore_Penrose_Pseudoinverse/assets/129745308/e78e6f4d-967a-459a-847d-a553f3d2eb80)
